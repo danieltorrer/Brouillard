@@ -28,7 +28,8 @@ and by Disneys MultiPlane Camera (http://www.youtube.com/watch?v=kN-eCBAOw60).
 -------------------------------------------------------------------------------
 Examples
 
-Five basic example landscapes are included with the base-sketch; press keys from 1 to 5 to switch from one to another.
+Five basic example landscapes are included with the base-sketch; 
+press keys from 1 to 5 to switch from one to another.
 
 -------------------------------------------------------------------------------
 Future
