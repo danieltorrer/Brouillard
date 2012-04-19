@@ -5,7 +5,7 @@ Built and created for a workshop with 1st and 3rd year students at ECAL, Lausann
 and used with beginner students at ProcessingParis 2012, Paris
 by
 Andreas Gysin
-2010-2011
+2011-2012
 
 h3. Purpose
 
