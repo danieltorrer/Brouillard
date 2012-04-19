@@ -1,6 +1,6 @@
 /**
 Brouillard / Mist
-A whateverscape builder.
+A whatever-scape in the mist.
 Built in a workshop with advanced students at ECAL, Lausanne
 and used with beginner students at ProcessingParis 2012, Paris
 Works with Processing 1.5
