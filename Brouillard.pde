@@ -1,5 +1,5 @@
 /**
-Mist / Brouillard
+Brouillard / Mist
 A whateverscape builder.
 Built in a workshop with advanced students at ECAL, Lausanne
 and used with beginner students at ProcessingParis 2012, Paris
