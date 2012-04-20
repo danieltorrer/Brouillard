@@ -22,8 +22,10 @@ It works well with beginners as they can focus on image and narrative.
 Origins
 
 The idea was inspired 
-by Bruno Munari's book "Nella Nebbia di Milano"
-and by Disneys MultiPlane Camera (http://www.youtube.com/watch?v=kN-eCBAOw60).
+by 
+Bruno Munari's book "Nella Nebbia di Milano"
+and by 
+Disneys MultiPlane Camera (http://www.youtube.com/watch?v=kN-eCBAOw60).
 
 -------------------------------------------------------------------------------
 Examples
