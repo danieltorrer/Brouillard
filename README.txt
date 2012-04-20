@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------
 Brouillard / Mist
 
-A whatever-scape in the mist.
+An imagescape in the mist.
 Built and created for a workshop with 1st and 3rd year students at ECAL, Lausanne
 and used with beginner students at ProcessingParis 2012, Paris
 by
