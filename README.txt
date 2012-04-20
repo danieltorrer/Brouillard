@@ -45,7 +45,7 @@ Author:
 	
 Project page:
 	http://ertdfgcvb.com/bruillard
-	http://github.com/ertdfgcvb/Bruillard	
+	http://github.com/ertdfgcvb/Brouillard	
 
 -------------------------------------------------------------------------------
 Copyright (c) 2012 Andreas Gysin
