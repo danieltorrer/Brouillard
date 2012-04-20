@@ -14,3 +14,15 @@ void saveOutput() {
   __currentFrame++;
 }
 
+void saveOutput(String fn){
+  hint(DISABLE_DEPTH_SORT);
+  hint(DISABLE_DEPTH_TEST);
+  save("out/" + fn + ".png");
+  hint(ENABLE_DEPTH_SORT);
+  hint(ENABLE_DEPTH_TEST);
+}
+
+String timestamp(){
+  return year() + "_" + month() + "_" + day() + "_" + hour() + "_" + minute() + "_" + second();
+}
+

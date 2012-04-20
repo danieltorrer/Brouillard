@@ -103,7 +103,7 @@ void keyPressed() {
   else if (key == '4') buildForms(3);
   else if (key == '5') buildForms(4);
   else if (key == 'd') debug = !debug;
-  else if (key == 's') saveOutput();
+  else if (key == 's') saveOutput(timestamp());
   
   //a little hack for debugging purposes:
   else if (key == '+') {
