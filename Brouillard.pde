@@ -1,13 +1,13 @@
 /**
 Brouillard / Mist
-An imagescape in the mist.
+An image-scape in the mist.
 Built in a workshop with advanced students at ECAL, Lausanne
 and used with beginner students at ProcessingParis 2012, Paris
 Works with Processing 1.5
 A WebGL port is planned (maybe)
 
 Use trackpad/mouse + keyboard for controls
-Load different imagescapes with keys 1-5
+Load different image-scapes with keys 1-5
 For more controls see the keyPressed() functions
 
 Coordinates are left "default",
