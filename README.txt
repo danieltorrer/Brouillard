@@ -14,7 +14,7 @@ Purpose
 This quite simple program was built and used during a Processing workshop at ECAL with the third year students for the first year students.
 Programming neofites could build an image-scape just by adding textures to the program, displaying them in a 3D space and travel trough with a camera.
 Some basic camera movement is implemented and also some basic input (mouse and keyboard).
-The particiants could customize the whole program, in particular the controls and the camera movement but also add some extra objects (for example 3d meshes) by extending the main Form class.
+The participants could customize the whole program, in particular the controls and the camera movement but also add some extra objects (for example 3d meshes) by extending the main Form class.
 The workshop was also repeated at ProcessingParis.
 It works well with beginners as they can focus on image and narrative. 
 
