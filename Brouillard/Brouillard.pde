@@ -11,7 +11,7 @@ Load different image-scapes with keys 1-5
 For more controls see the keyPressed() functions
 
 Coordinates are left "default",
-which means right-hand axis with -z for depth.
+which means left-hand axis with -z for depth.
 This could be modified in a next version… 
 */
 
